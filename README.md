@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stefania Rondinón
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript
+- 👀 I’m interested in web development and testing
+- 🌱 I’m currently learning Testing Automation
 - 📫 How to reach me rondinonstefi@gmail.com
 
 <h3 align="left">Languages and Tools:</h3>
